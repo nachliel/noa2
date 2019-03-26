@@ -1,8 +1,4 @@
-[![CircleCI](https://img.shields.io/circleci/project/github/ekristen/dns-proxy.svg)](https://circleci.com/gh/ekristen/dns-proxy/) [![npm](https://img.shields.io/npm/dt/dns-proxy.svg)](https://www.npmjs.org/package/dns-proxy) [![npm](https://img.shields.io/npm/l/dns-proxy.svg)](https://www.npmjs.org/package/dns-proxy) [![David](https://img.shields.io/david/ekristen/dns-proxy.svg)](https://david-dm.com/ekristen/dns-proxy) [![David](https://img.shields.io/david/dev/ekristen/dns-proxy.svg)](https://david-dm.com/ekristen/dns-proxy)
-
 # DNS Proxy
-
-Simple DNS Proxy written in Node.JS
 
 Designed to allow you to override hosts or domains with specific answers or override tlds, or domains to use different nameservers. Useful when using VPN connections with split DNS setups.
 
